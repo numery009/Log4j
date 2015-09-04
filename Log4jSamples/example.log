@@ -1,0 +1,14 @@
+DEBUG main org.abcco.training.SomeClass - This is debug124
+INFO main org.abcco.training.SomeClass - This is info
+WARN main org.abcco.training.SomeClass - This is warning
+ERROR main org.abcco.training.SomeClass - There is generated from this program
+java.lang.ArithmeticException: / by zero
+	at org.abcco.training.SomeClass.main(SomeClass.java:37)
+FATAL main org.abcco.training.SomeClass - This is fatal
+DEBUG main org.abcco.training.SomeClass - This is debug124
+INFO main org.abcco.training.SomeClass - This is info
+WARN main org.abcco.training.SomeClass - This is warning
+ERROR main org.abcco.training.SomeClass - There is generated from this program
+java.lang.ArithmeticException: / by zero
+	at org.abcco.training.SomeClass.main(SomeClass.java:37)
+FATAL main org.abcco.training.SomeClass - This is fatal
